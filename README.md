@@ -5,7 +5,7 @@ Hecha con HTML y mayormente con CSS y su maquetado en Grid.
 
 # Diseño:
 Estructurado con HTML y el diseño final hecho con CSS, para dar el impacto final al diseño.
-El fondo inmovil fue puesto con CSS.
+Fondo inmovil con CSS y estructura de maquetado con Grid.
 
 ![2](https://user-images.githubusercontent.com/87548801/132108528-9bbe5aa9-23b7-4c53-b0ab-6e8774126709.png)
 
